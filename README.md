@@ -145,7 +145,7 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=49&cu=INR&tn=1%20Day%20Premium" class="btn">अनलॉक करें 🔓</a>
+            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=1&cu=INR&tn=1%20Day%20Premium" class="btn">अनलॉक करें 🔓</a>
         </div>
 
         <div class="card">
