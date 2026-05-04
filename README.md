@@ -138,7 +138,7 @@
         
         <div class="card">
             <div class="validity">1 दिन (Trial)</div>
-            <div class="price">₹1 <span>/ मात्र</span></div>
+            <div class="price">₹15 <span>/ मात्र</span></div>
             <ul class="features">
                 <li>GOD AI और Super AI अनलॉक</li>
                 <li>मास्टर पासबुक और मनी मैनेजमेंट</li>
