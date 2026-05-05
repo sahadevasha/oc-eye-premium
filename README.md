@@ -131,7 +131,7 @@
 <body>
 
 <div class="container">
-    <h1>🚀 OC Eye Premium</h1>
+    
     <p class="subtitle">✅ एक सब्सक्रिप्शन = ऐप के सारे फीचर्स अनलॉक!</p>
 
     <div class="grid">
