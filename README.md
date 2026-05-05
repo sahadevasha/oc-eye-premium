@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
@@ -138,14 +138,14 @@
         
         <div class="card">
             <div class="validity">1 दिन (Trial)</div>
-            <div class="price">₹15 <span>/ मात्र</span></div>
+            <div class="price">₹1 <span>/ मात्र</span></div>
             <ul class="features">
                 <li>GOD AI और Super AI अनलॉक</li>
                 <li>मास्टर पासबुक और मनी मैनेजमेंट</li>
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=1&cu=INR&tn=1%20Day%20Premium" class="btn">अनलॉक करें 🔓</a>
+            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=1&cu=INR&tn=1%20Day%20Premium&days=1" class="btn">अनलॉक करें 🔓</a>
         </div>
 
         <div class="card">
@@ -157,7 +157,7 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=249&cu=INR&tn=7%20Days%20Premium" class="btn">अनलॉक करें 🔓</a>
+            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=249&cu=INR&tn=7%20Days%20Premium&days=7" class="btn">अनलॉक करें 🔓</a>
         </div>
 
         <div class="card" style="border-color: #facc15;">
@@ -170,7 +170,7 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=799&cu=INR&tn=30%20Days%20Premium" class="btn btn-gold">अनलॉक करें 🔓</a>
+            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=799&cu=INR&tn=30%20Days%20Premium&days=30" class="btn btn-gold">अनलॉक करें 🔓</a>
         </div>
 
         <div class="card">
@@ -182,7 +182,7 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=6999&cu=INR&tn=365%20Days%20Premium" class="btn">अनलॉक करें 🔓</a>
+            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=6999&cu=INR&tn=365%20Days%20Premium&days=365" class="btn">अनलॉक करें 🔓</a>
         </div>
 
     </div>
