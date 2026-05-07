@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
@@ -53,7 +53,6 @@
             border-color: #38bdf8;
         }
         
-        /* पॉपुलर बैज */
         .popular-badge {
             position: absolute;
             top: 20px;
@@ -126,12 +125,19 @@
         
         .btn-gold { background: linear-gradient(90deg, #f59e0b, #d97706); }
         .btn-gold:hover { background: linear-gradient(90deg, #fbbf24, #f59e0b); box-shadow: 0 0 15px rgba(245, 158, 11, 0.5); }
+        
+        .secure-text {
+            font-size: 0.75rem;
+            color: #94a3b8;
+            margin-top: 10px;
+            display: block;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    
+    <h1>🚀 OC Eye Premium</h1>
     <p class="subtitle">✅ एक सब्सक्रिप्शन = ऐप के सारे फीचर्स अनलॉक!</p>
 
     <div class="grid">
@@ -145,7 +151,8 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=1&cu=INR&tn=1%20Day%20Premium&days=1" class="btn">अनलॉक करें 🔓</a>
+            <a href="https://razorpay.me/@shubhbandhan" target="_blank" class="btn">अनलॉक करें 🔓</a>
+            <span class="secure-text">💳 Razorpay द्वारा सुरक्षित भुगतान</span>
         </div>
 
         <div class="card">
@@ -157,7 +164,8 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=249&cu=INR&tn=7%20Days%20Premium&days=7" class="btn">अनलॉक करें 🔓</a>
+            <a href="https://razorpay.me/@shubhbandhan" target="_blank" class="btn">अनलॉक करें 🔓</a>
+            <span class="secure-text">💳 Razorpay द्वारा सुरक्षित भुगतान</span>
         </div>
 
         <div class="card" style="border-color: #facc15;">
@@ -170,7 +178,8 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=799&cu=INR&tn=30%20Days%20Premium&days=30" class="btn btn-gold">अनलॉक करें 🔓</a>
+            <a href="https://razorpay.me/@shubhbandhan" target="_blank" class="btn btn-gold">अनलॉक करें 🔓</a>
+            <span class="secure-text">💳 Razorpay द्वारा सुरक्षित भुगतान</span>
         </div>
 
         <div class="card">
@@ -182,7 +191,8 @@
                 <li>ऑटो-कंपाउंडिंग फीचर अनलॉक</li>
                 <li>सुपर ब्लास्टर एडवांस AI</li>
             </ul>
-            <a href="upi://pay?pa=8982788289@ibl&pn=OC%20Eye&am=6999&cu=INR&tn=365%20Days%20Premium&days=365" class="btn">अनलॉक करें 🔓</a>
+            <a href="https://razorpay.me/@shubhbandhan" target="_blank" class="btn">अनलॉक करें 🔓</a>
+            <span class="secure-text">💳 Razorpay द्वारा सुरक्षित भुगतान</span>
         </div>
 
     </div>
